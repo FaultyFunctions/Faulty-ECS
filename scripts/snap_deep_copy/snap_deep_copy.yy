@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "THIRD PARTY HELPERS",
-    "path": "folders/THIRD PARTY HELPERS.yy",
+    "path": "folders/ECS/_Internal/Helper Functions/THIRD PARTY HELPERS.yy",
   },
   "resourceVersion": "1.0",
   "name": "snap_deep_copy",
