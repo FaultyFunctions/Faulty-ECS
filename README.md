@@ -8,4 +8,4 @@ Check out the [Wiki](https://github.com/FaultyFunctions/Faulty-ECS/wiki) for mor
 * babaganosch - https://github.com/babaganosch/NotificationSystem
 
 ### Inspiration
-* StateMachineSystem & StateMachineComponent - https://www.richardlord.net/blog/ecs/finite-state-machines-with-ash.html & https://github.com/richardlord/Ash/tree/master/src/ash/fsm
+* StateMachineSystem - https://www.richardlord.net/blog/ecs/finite-state-machines-with-ash.html and https://github.com/richardlord/Ash/tree/master/src/ash/fsm
