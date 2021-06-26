@@ -1,10 +1,9 @@
 enum CollisionType {
 	NONE,
-	SIMPLE,
-	NORMAL
+	SIMPLE
 }
 
-function MoveComponent(collision_type = CollisionType.SIMPLE) : IComponent() constructor {
+function MoveComponent(collision_type) : IComponent() constructor {
 	self.collision_type = collision_type;
 	velocity = new Vector2(0, 0);
 	enabled = true;

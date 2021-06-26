@@ -24,5 +24,5 @@ _fsm.setInitialState("Idle");
 component_add(id, [
 	_fsm,
 	new CameraFollowComponent(),
-	new MoveComponent()
+	new MoveComponent(CollisionType.SIMPLE)
 ]);
