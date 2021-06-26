@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Player/Systems.yy",
+    "path": "folders/FaultyECS/Player/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerMoveSystem",

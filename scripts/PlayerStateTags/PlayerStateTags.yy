@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Tags",
-    "path": "folders/ECS/Player/Tags.yy",
+    "path": "folders/FaultyECS/Player/Tags.yy",
   },
   "resourceVersion": "1.0",
   "name": "PlayerStateTags",

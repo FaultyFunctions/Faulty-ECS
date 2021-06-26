@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Rendering/Animation/Systems.yy",
+    "path": "folders/FaultyECS/Rendering/Animation/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "sys_animation",

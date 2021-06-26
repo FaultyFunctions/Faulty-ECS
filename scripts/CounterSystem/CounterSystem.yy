@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Utilities/Counter/Systems.yy",
+    "path": "folders/FaultyECS/Utilities/Counter/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "CounterSystem",

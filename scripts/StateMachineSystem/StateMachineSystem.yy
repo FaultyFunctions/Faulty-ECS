@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/State Machine/Systems.yy",
+    "path": "folders/FaultyECS/State Machine/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "StateMachineSystem",

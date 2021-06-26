@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Rendering/Camera/Systems.yy",
+    "path": "folders/FaultyECS/Rendering/Camera/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "sys_camera",

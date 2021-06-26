@@ -34,7 +34,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "System",
-    "path": "folders/ECS/_Internal/System.yy",
+    "path": "folders/FaultyECS/_Internal/System.yy",
   },
   "resourceVersion": "1.0",
   "name": "SystemManager",

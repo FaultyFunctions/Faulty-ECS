@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "State Machine",
-    "path": "folders/ECS/State Machine/Considerations/State Machine.yy",
+    "path": "folders/FaultyECS/State Machine/Considerations/State Machine.yy",
   },
   "resourceVersion": "1.0",
   "name": "PreviousStateConsideration",

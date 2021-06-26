@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Stats",
-    "path": "folders/ECS/Stats.yy",
+    "path": "folders/FaultyECS/Stats.yy",
   },
   "resourceVersion": "1.0",
   "name": "sys_stats",

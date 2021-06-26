@@ -24,7 +24,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "_Worlds",
-    "path": "folders/ECS/_Worlds.yy",
+    "path": "folders/FaultyECS/_Worlds.yy",
   },
   "resourceVersion": "1.0",
   "name": "world_gameplay",

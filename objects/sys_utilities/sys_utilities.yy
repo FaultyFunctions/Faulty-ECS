@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Utilities/Counter/Systems.yy",
+    "path": "folders/FaultyECS/Utilities/Counter/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "sys_utilities",

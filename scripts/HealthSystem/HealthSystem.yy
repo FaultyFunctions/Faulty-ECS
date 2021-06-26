@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Stats/Health/Systems.yy",
+    "path": "folders/FaultyECS/Stats/Health/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "HealthSystem",

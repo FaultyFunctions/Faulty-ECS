@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Tags",
-    "path": "folders/ECS/Movement/Tags.yy",
+    "path": "folders/FaultyECS/Movement/Tags.yy",
   },
   "resourceVersion": "1.0",
   "name": "SolidTag",

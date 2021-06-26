@@ -3,7 +3,7 @@
   "isCompatibility": false,
   "parent": {
     "name": "Systems",
-    "path": "folders/ECS/Movement/Systems.yy",
+    "path": "folders/FaultyECS/Movement/Systems.yy",
   },
   "resourceVersion": "1.0",
   "name": "MovementSystem",

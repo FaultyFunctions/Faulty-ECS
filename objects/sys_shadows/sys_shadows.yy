@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Shadows",
-    "path": "folders/ECS/Rendering/Shadows.yy",
+    "path": "folders/FaultyECS/Rendering/Shadows.yy",
   },
   "resourceVersion": "1.0",
   "name": "sys_shadows",
