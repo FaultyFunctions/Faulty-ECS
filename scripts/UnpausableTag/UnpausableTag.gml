@@ -1,0 +1,3 @@
+function UnpausableTag() : IComponent() constructor {
+
+}
